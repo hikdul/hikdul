@@ -20,6 +20,10 @@ Dana is very simple only need change one leter for other and the resul is the co
  Hector is a Handsome man, he born in 1990 and for this moment he works as a Developer.
 
  for more information contact to me.
+
+</br>
+
+[![Email](https://img.shields.io/badge/hikdul.lio@gmail.com-my_personal_email-000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=839e87)](mailto:hikdul.lio@gmail.com)
 ___
  ## :beer: What is this space for?
 
@@ -46,11 +50,3 @@ ___
 
 [![C#](https://img.shields.io/badge/C_Sharp-000?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=839e87)]()
 [![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.Net&logoColor=white&labelColor=839e87)]()
-
-___
-
-## Contact:
-
-</br>
-
-[![Email](https://img.shields.io/badge/hikdul.lio@gmail.com-my_personal_email-000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=839e87)](mailto:hikdul.lio@gmail.com)
