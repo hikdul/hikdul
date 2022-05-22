@@ -33,7 +33,24 @@ ___
  ---
  ## Skills :skull:
 
- <ul>
- <li>C# => .Net</li>
- <li>JS TS => NodeJs React</li>
- </ul>
+</br>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=839e87)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=839e87)]()
+[![NodeJs](https://img.shields.io/badge/Node.Js-000?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=839e87)]()
+[![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=white&labelColor=839e87)]()
+
+
+</br>
+
+
+[![C#](https://img.shields.io/badge/C_Sharp-000?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=839e87)]()
+[![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.Net&logoColor=white&labelColor=839e87)]()
+
+___
+
+## Contact:
+
+</br>
+
+[![Email](https://img.shields.io/badge/hikdul.lio@gmail.com-my_personal_email-000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=839e87)](mailto:hikdul.lio@gmail.com)
