@@ -50,3 +50,11 @@ ___
 
 [![C#](https://img.shields.io/badge/C_Sharp-000?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=839e87)]()
 [![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=.Net&logoColor=white&labelColor=839e87)]()
+
+### Others Acitvities
+
+* Read
+* Video Games
+* Walk 
+
+<a href="https://app.daily.dev/hikdul"><img src="https://api.daily.dev/devcards/14c18b54ee92479abd1c77053e91ea55.png?r=t50" width="400" alt="hector luis's Dev Card"/></a>  
